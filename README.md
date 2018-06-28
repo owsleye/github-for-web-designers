@@ -1,1 +1,3 @@
-# github-for-web-designers
+# GitHub for Web Designers
+
+Lorem ipsum dolor sit amet.
